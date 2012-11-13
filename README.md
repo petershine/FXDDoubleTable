@@ -6,7 +6,7 @@ While front table is showing main items, behind table can show glimpse of sub it
 As the user touches and start dragging front or behind tables, heights of them are maximized or minimized to give comfortable scrolling space.
 
 #### Customizable Definitions (Declared in [FXDcontrollerSubTable.h](https://github.com/petershine/FXDDoubleTable/blob/master/FXDDoubleTable/FXDcontrollerSubTable.h))
-```
+``` objective-c
 #define heightDefaultCell  44.0	// Customizable if your tableViewCell height is different
 #define heightSectionHeader	22.0	// Customizable if you use your own section header view
 
