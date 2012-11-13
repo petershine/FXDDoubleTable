@@ -1,7 +1,5 @@
 # FXDDoubleTable
 
-Double layered tables, responsive to user scrolling
-
 While front table is showing main items, behind table can show glimpse of sub items.
 As the user touches and start dragging front or behind tables, heights of them are maximized or minimized to give comfortable scrolling space.
 
@@ -48,3 +46,5 @@ else {
 	}
 }
 ```
+
+Released under the [MIT License](http://opensource.org/licenses/mit-license.php)
